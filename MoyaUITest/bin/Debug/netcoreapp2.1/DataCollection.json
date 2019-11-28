@@ -1,0 +1,24 @@
+﻿{
+  "ApplicationSettings": {
+    "ApplicationName": "CuvivaControleTower",
+    "Version": "0.0.1",
+    "Environment": "Canary"
+  },
+  "TestSettings": {
+    "TestCatagory": "Regression",
+    "RunTime": "Nightly"
+  },
+  "Caregiver": {
+    "Role": "administrators",
+    "Profile": "Anna Persson"
+  },
+  "TechPerson": {
+    "Role": "Technician",
+    "Profile": "Sara Blixt"
+  },
+  "InvalidUser": {
+    "Role": "BadRole",
+    "Username": "badusername@abc.com",
+    "Password": "badpassword"
+  }
+}

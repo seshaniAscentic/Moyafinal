@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="BaseURL" value="https://moya-admin-web-dev.azurewebsites.net" />
+    <Parameter name="BrowserType" value="Chrome" />
+    <Parameter name="Username" value="seshani@ascentic.se" />
+    <Parameter name="Password" value="thanushka@123" />
+    <Parameter name="Profile" value="" />
+    <Parameter name="Gamename" value="Automation test game" />
+	<Parameter name="startdate" value="2019-11-14" />
+  </TestRunParameters>
+</RunSettings>
